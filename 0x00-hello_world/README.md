@@ -1,1 +1,1 @@
-write a c program that write 4-puts.c
+Write a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
