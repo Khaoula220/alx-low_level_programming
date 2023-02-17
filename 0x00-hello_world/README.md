@@ -1,1 +1,1 @@
- write a c progra that write 4-puts.c
+ write a cprogram 4-puts.c
