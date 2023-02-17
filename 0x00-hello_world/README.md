@@ -1,1 +1,1 @@
- write a cprogram 4-puts.c
+ write a c program that print exactly 4-puts.c
