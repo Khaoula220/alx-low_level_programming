@@ -1,1 +1,1 @@
-6. Size is not grandeur, and territory does not make a nation
+ write a c progra that write 4-puts.c
