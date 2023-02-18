@@ -4,6 +4,7 @@
  * Return 0 (Success)
  */
 int main(void)
+	A program that prints the size of various computer types
 {
 	printf("Size of a char: %lu byte(s)\n", sizeof(char));
 	printf("Size of an int: %lu byte(s)\n", sizeof(int));
