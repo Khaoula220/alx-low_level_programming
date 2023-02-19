@@ -10,15 +10,15 @@ int main(void)
 	int d;
 	int e = 0;
 
-	while (e < 10)
+	while (e < 100)
 	{
 		d = 0;
-		while (d < 10)
+		while (d < 100)
 		{
 			c = 0;
 			while (c < 0)
 			{
-				if (c != d && d !=e && e < d && d < c)
+				if (c != d && d != e && e < d && d < c)
 				{
 					putchar('0' + e);
 					putchar('0' + d);
