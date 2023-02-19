@@ -10,10 +10,10 @@ int main(void)
 	int d;
 	int e = 0;
 
-	while (e < 100)
+	while (e < 10)
 	{
 		d = 0;
-		while (d < 100)
+		while (d < 10)
 		{
 			c = 0;
 			while (c < 0)
@@ -22,6 +22,12 @@ int main(void)
 				{
 					putchar('0' + e);
 					putchar('0' + d);
+					putchar('0' + c);
+					if (c + d + e != 9 + 8 + 7)
+					{
+						putchar(',');
+						putchar(' ');
+					}
 				}
 				c++;
 			}
