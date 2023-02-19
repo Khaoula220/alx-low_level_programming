@@ -3,8 +3,7 @@
 /**
  * main - main block
  * Description: write a program that prints all
- * possible diffrent combinations of two digits
- * Numbers must be separated by ,, followed by a space 
+ * possible diffrent combinations of two digits 
  * The two digits must be diffrent
  * 01 and 10 are considered the same combination of the two digits 0 and 1
  * Print only the smallest combination of two digits
@@ -35,7 +34,6 @@ int main(void)
 					putchar(' ');
 				}
 			}
-			
 			c++;
 		}
 
