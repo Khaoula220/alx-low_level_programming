@@ -6,7 +6,7 @@
 
 int main(void)
 {
-	int i,z = 0;
+	int i, z = 0;
 
 	while (i < 1024)
 	{
@@ -16,6 +16,6 @@ int main(void)
 		}
 		i++;
 	}
-	printf("%d\n",z);
+	printf("%d\n", z);
 	return (0);
 }
