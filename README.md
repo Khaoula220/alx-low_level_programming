@@ -1,1 +1,1 @@
-7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
+12. The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself

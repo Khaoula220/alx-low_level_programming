@@ -1,1 +1,1 @@
-Write a function that prints the last digit of a number.
+Write a function that prints the n times table, starting with 0.
