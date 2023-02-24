@@ -1,1 +1,1 @@
-1. isdigit
+0. isupper
