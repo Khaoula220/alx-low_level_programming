@@ -5,13 +5,16 @@
  *Return: 1 for upper letter or 0 for any else
  */
 
-int _isupper(int c)
+int _isupper(char c)
 {
-	if (c >= 65 && c <= 90)
+	if (c >= 'A' && c <= 'Z')
 	{
 		return (1);
 	}
-	return (0);
-
+	else
+	{
+		return (0);
+	}
 }
-			
+	
+		
