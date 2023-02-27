@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stdio.h>
+
 /**
  * main - check the code
  *
@@ -8,7 +10,7 @@ int main(void)
 {
 	char *str;
 
-	str = "";
+	str = "0123456789";
 	puts_half(str);
 	return (0);
 }
